@@ -29,7 +29,7 @@
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-royal&show_icons=true" alt="rajesh-royal" /></div>
 <br/>
 
-### <img src="https://github.com/Rajesh-Royal/Rajesh-Royal/blob/master/social.png" alt="social Media" width="20" height="20"/> Social Media
+### <img src="https://github.com/Rajesh-Royal/Rajesh-Royal/blob/master/social.png" alt="social Media" width="40" height="40"/> Social Media
 <p align="left">
 <a href="https://codepen.io/rajesh-royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rajesh-royal" height="30" width="30" /></a>
 <a href="https://dev.to/rajeshroyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rajeshroyal" height="30" width="30" /></a>
