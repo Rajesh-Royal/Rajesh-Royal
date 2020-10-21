@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **OMM**
 
-- 🌱 I’m currently learning **GraphQL and NestJs**
+- 🌱 I’m currently learning **Next.js and firebase**
 
 - 👯 I’m looking to collaborate on **ReactJS Projects**
 
