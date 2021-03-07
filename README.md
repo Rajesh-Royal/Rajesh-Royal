@@ -42,5 +42,5 @@
 <a href="https://linkedin.com/in/rajesh-royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajesh-royal" height="30" width="30" /></a>
 <a href="https://fb.com/rajesh.royal.92372" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajesh.royal.92372" height="30" width="30" /></a>
 <a href="https://instagram.com/rajesh.royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajesh.royal" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ucp_2dqfxjvlamkwwsoidrqw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucp_2dqfxjvlamkwwsoidrqw" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCBb97XjrfMYbUTh5bPzEn7g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucp_2dqfxjvlamkwwsoidrqw" height="30" width="30" /></a>
 </p>
