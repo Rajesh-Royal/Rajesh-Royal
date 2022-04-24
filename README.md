@@ -3,25 +3,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-royal" alt="rajesh-royal" /> </p>
 
-- 🔭 I’m currently working on **OMM**
+- 🔭 I’m currently working on **edeXa Dapps**
 
-- 🌱 I’m currently learning **Next.js and firebase**
+- 🌱 I’m currently learning **Next.js, Svelte and Solidity**
 
-- 👯 I’m looking to collaborate on **ReactJS Projects**
+- 👯 I’m looking to collaborate on **ReactJS, JS, TS, Next.js Projects**
 
-- 🤝 I’m looking for help with **DSA and Algos 😭**
+- 🤝 I’m looking for help with **None for right now**
 
-- 👨‍💻 All of my projects are available at [https://rajeshroyal.com](https://rajeshroyal.com)
+- 👨‍💻 All of my projects are available at [my portfolio](https://rajeshroyal.com)
 
-- 📝 I regulary write articles on [https://rajeshroyal.com/blog](https://rajeshroyal.com/blog)
+- 📝 I regulary write articles on [rajeshroyal/blog](https://rajeshroyal.com/blog), [Dev/blog](https://dev.to/rajeshroyal)
+ 
+- 📢 I have published few open source libraries - [NPM](https://www.npmjs.com/~rajesh896)
 
-- 💬 Ask me about **ReactJs, ES6, WP or anything which relate to Frontend**
+- 💬 Ask me about **ReactJs, ES6, WP or anything which relate to Frontend and [backend 🙂]**
 
-- 📫 How to reach me **rajeshroyal896@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rajesh-royal)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [𝗛𝗼𝘄 𝘁𝗼 𝗮𝗰𝗰𝗲𝗽𝘁 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗜𝗻𝘃𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 at once❓](https://dev.to/rajeshroyal/at-once-5c2m)
+- [Get Funky on the Console - Level Up humour😅](https://dev.to/rajeshroyal/get-funky-on-the-console-level-up-humour-12a6)
+- [Handle multiple environments in ReactJs [dev, stag, prod]](https://dev.to/rajeshroyal/handle-multiple-environments-in-reactjs-dev-stag-prod-1b9e)
+- [Page Not Found Error on Netlify Reactjs React Router solved](https://dev.to/rajeshroyal/page-not-found-error-on-netlify-reactjs-react-router-solved-43oa)
+- [https://dev.to/rajeshroyal/change-cursor-style-and-animation-in-vs-code-2h08](https://dev.to/rajeshroyal/change-cursor-style-and-animation-in-vs-code-2h08)
 - [Sharing my experiences with cancer in the workplace](https://dev.to/rajeshroyal/sharing-my-experiences-with-cancer-in-the-workplace-7d)
 - [1 reason for choosing next.js over gatsby](https://dev.to/rajeshroyal/1-reason-for-choosing-next-js-over-gatsby-ndd)
 - [How to solve low disk space issue in windows.](https://dev.to/rajeshroyal/how-to-solve-low-disk-space-issue-in-windows-3c2g)
