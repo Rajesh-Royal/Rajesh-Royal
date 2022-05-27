@@ -85,13 +85,11 @@
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-royal&show_icons=true" alt="rajesh-royal" /></div>
 <br/>
 
-### <img src="https://github.com/Rajesh-Royal/Rajesh-Royal/blob/master/social.png" alt="social Media" width="40" height="40"/> Social Media
+### 📱 Social Media
 <p align="left">
-<a href="https://codepen.io/rajesh-royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rajesh-royal" height="30" width="30" /></a>
-<a href="https://dev.to/rajeshroyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rajeshroyal" height="30" width="30" /></a>
-<a href="https://twitter.com/raj_896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raj_896" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/rajesh-royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajesh-royal" height="30" width="30" /></a>
-<a href="https://fb.com/rajesh.royal.92372" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajesh.royal.92372" height="30" width="30" /></a>
-<a href="https://instagram.com/rajesh.royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajesh.royal" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCBb97XjrfMYbUTh5bPzEn7g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucp_2dqfxjvlamkwwsoidrqw" height="30" width="30" /></a>
+<a href="https://dev.to/rajeshroyal" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/devto.svg" alt="rajeshroyal" height="30" width="130" /></a>
+<a href="https://twitter.com/raj_896" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="raj_896" height="30" width="130" /></a>
+<a href="https://linkedin.com/in/rajesh-royal" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="rajesh-royal" height="30" width="130" /></a>
+<a href="https://instagram.com/rajesh.royal" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="rajesh.royal" height="30" width="130" /></a>
+<a href="https://www.youtube.com/channel/UCBb97XjrfMYbUTh5bPzEn7g" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="ucp_2dqfxjvlamkwwsoidrqw" height="30" width="130" /></a>
 </p>
