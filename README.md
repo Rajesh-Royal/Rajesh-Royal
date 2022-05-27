@@ -85,6 +85,9 @@
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-royal&show_icons=true" alt="rajesh-royal" /></div>
 <br/>
 
+### And a joke 😜
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 ### 📱 Social Media
 <p align="left">
 <a href="https://dev.to/rajeshroyal" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/devto.svg" alt="rajeshroyal" height="30" width="130" /></a>
