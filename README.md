@@ -69,7 +69,7 @@
 ### Projects I'm produ of
 <table>
   <tr>
-    <td><a href="https://github.com/Rajesh-Royal/Broprint.js" target="_blank"><img src="screenshots/Screenshot_1582745092.png" width=100 height=100></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/Broprint.js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/164651028-1a35b1a9-61eb-47d9-ad70-362060f8e5c7.gif" width=300></a></td>
   </tr>
  </table>
 ### How about some tech blogs
