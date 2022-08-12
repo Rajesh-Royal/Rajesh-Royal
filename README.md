@@ -69,10 +69,22 @@
 ### Projects I'm produ of
 <table>
   <tr>
-    <td><a href="https://github.com/Rajesh-Royal/Broprint.js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/164651028-1a35b1a9-61eb-47d9-ad70-362060f8e5c7.gif" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/vthumb.js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/164651028-1a35b1a9-61eb-47d9-ad70-362060f8e5c7.gif" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/Broprint.js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/163906729-f34e193a-e202-43ae-ba4b-c460da6cc911.gif" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/netflix-frontend-clone" target="_blank"><img src="https://github.com/Rajesh-Royal/netflix-frontend-clone/raw/master/images/final%20screenshot%20readme%20preview.jpg" width=300 ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Rajesh-Royal/josh-website-ui" target="_blank"><img src="https://screenshot-proxy.netlify.app/f_avif,w_336/https://d33wubrfki0l68.cloudfront.net/62bc498bd3f6e20009cc3889/screenshot_2022-06-29-12-47-04-0000.png" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/Employee-Management-Dashboard" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/173211713-7fd30316-6e16-451d-b6f0-61783bc2e8b3.png" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/video-chat-one-to-one-node-js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/110233509-67294f00-7f4a-11eb-9dc8-0c4e1424b860.png" width=300 ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Rajesh-Royal/WYNK-Music-App-Clone" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/169729910-1fef9c22-52a3-4586-8876-913e1a9c9c60.gif" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/Employee-Management-Dashboard" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/173211713-7fd30316-6e16-451d-b6f0-61783bc2e8b3.png" width=300></a></td>
+    <td><a href="https://github.com/Rajesh-Royal/video-chat-one-to-one-node-js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/110233509-67294f00-7f4a-11eb-9dc8-0c4e1424b860.png" width=300 ></a></td>
   </tr>
  </table>
- 
+
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
 - [𝗛𝗼𝘄 𝘁𝗼 𝗮𝗰𝗰𝗲𝗽𝘁 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗜𝗻𝘃𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 at once❓](https://dev.to/rajeshroyal/at-once-5c2m)
