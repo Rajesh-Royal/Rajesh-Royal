@@ -72,6 +72,7 @@
     <td><a href="https://github.com/Rajesh-Royal/Broprint.js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/164651028-1a35b1a9-61eb-47d9-ad70-362060f8e5c7.gif" width=300></a></td>
   </tr>
  </table>
+ 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
 - [𝗛𝗼𝘄 𝘁𝗼 𝗮𝗰𝗰𝗲𝗽𝘁 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗜𝗻𝘃𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 at once❓](https://dev.to/rajeshroyal/at-once-5c2m)
