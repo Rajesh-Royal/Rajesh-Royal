@@ -8,7 +8,7 @@
 ![English](https://img.shields.io/badge/English-blue)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=Javascript)
 
-- 🔭 I’m currently working on **edeXa Dapps**
+- 🔭 I’m currently working on **personal goals**
 
 - 🌱 I’m currently learning **Next.js, Svelte and Solidity**
 
