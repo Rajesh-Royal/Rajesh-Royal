@@ -66,7 +66,7 @@
 ![Asana](https://img.shields.io/badge/Asana-black?logo=asana)	
 ![Trello](https://img.shields.io/badge/Trello-black?logo=trello)	
 
-### Projects I'm produ of
+### Projects I'm proud of
 <table>
   <tr>
     <td><a href="https://github.com/Rajesh-Royal/vthumb.js" target="_blank"><img src="https://user-images.githubusercontent.com/24524924/164651028-1a35b1a9-61eb-47d9-ad70-362060f8e5c7.gif" width=240></a></td>
