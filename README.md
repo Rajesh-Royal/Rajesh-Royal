@@ -96,15 +96,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
-- [𝗛𝗼𝘄 𝘁𝗼 𝗮𝗰𝗰𝗲𝗽𝘁 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗜𝗻𝘃𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀 at once❓](https://dev.to/rajeshroyal/at-once-5c2m)
-- [Get Funky on the Console - Level Up humour😅](https://dev.to/rajeshroyal/get-funky-on-the-console-level-up-humour-12a6)
-- [Handle multiple environments in ReactJs [dev, stag, prod]](https://dev.to/rajeshroyal/handle-multiple-environments-in-reactjs-dev-stag-prod-1b9e)
-- [Page Not Found Error on Netlify Reactjs React Router solved](https://dev.to/rajeshroyal/page-not-found-error-on-netlify-reactjs-react-router-solved-43oa)
-- [https://dev.to/rajeshroyal/change-cursor-style-and-animation-in-vs-code-2h08](https://dev.to/rajeshroyal/change-cursor-style-and-animation-in-vs-code-2h08)
-- [Sharing my experiences with cancer in the workplace](https://dev.to/rajeshroyal/sharing-my-experiences-with-cancer-in-the-workplace-7d)
-- [1 reason for choosing next.js over gatsby](https://dev.to/rajeshroyal/1-reason-for-choosing-next-js-over-gatsby-ndd)
-- [How to solve low disk space issue in windows.](https://dev.to/rajeshroyal/how-to-solve-low-disk-space-issue-in-windows-3c2g)
-- [the-tech-tools-I-use-as-frontend-engineer](https://dev.to/rajeshroyal/the-tech-tools-i-use-as-frontend-engineer-1275)
+- [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
+- [Introducing Catepedia: A Nuxt 3 Cat Breed Search App](https://dev.to/rajeshroyal/introducing-catepedia-a-nuxt-3-cat-breed-search-app-5fkm)
+- [Geolocation Web API - explained in less than 256 chars](https://dev.to/rajeshroyal/geolocation-web-api-explained-in-less-than-256-chars-45o4)
+- [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
+- [100 Tips from The Pragmatic Programmers Book: Part 10/10](https://dev.to/rajeshroyal/100-tips-from-the-pragmatic-programmers-book-part-1010-3m74)
 <!-- BLOG-POST-LIST:END -->
 
 
