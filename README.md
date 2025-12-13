@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [5 Things You Need to Know to Make Money with AI &lpar;Without the BS&rpar;](https://dev.to/rajeshroyal/5-things-you-need-to-know-to-make-money-with-ai-without-the-bs-1o9m)
 - [Practical use of the event.stopPropagation React MUI Data Grid: Allowing Arrow Key Navigation for Input Fields](https://dev.to/rajeshroyal/practical-use-of-the-eventstoppropagation-react-mui-data-grid-allowing-arrow-key-navigation-for-571a)
 - [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
 - [Introducing Catepedia: A Nuxt 3 Cat Breed Search App](https://dev.to/rajeshroyal/introducing-catepedia-a-nuxt-3-cat-breed-search-app-5fkm)
 - [Geolocation Web API - explained in less than 256 chars](https://dev.to/rajeshroyal/geolocation-web-api-explained-in-less-than-256-chars-45o4)
-- [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
 <!-- BLOG-POST-LIST:END -->
 
 
