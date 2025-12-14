@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;2&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-2-57m3)
 - [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
 - [5 Things You Need to Know to Make Money with AI &lpar;Without the BS&rpar;](https://dev.to/rajeshroyal/5-things-you-need-to-know-to-make-money-with-ai-without-the-bs-1o9m)
 - [Practical use of the event.stopPropagation React MUI Data Grid: Allowing Arrow Key Navigation for Input Fields](https://dev.to/rajeshroyal/practical-use-of-the-eventstoppropagation-react-mui-data-grid-allowing-arrow-key-navigation-for-571a)
 - [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
-- [Introducing Catepedia: A Nuxt 3 Cat Breed Search App](https://dev.to/rajeshroyal/introducing-catepedia-a-nuxt-3-cat-breed-search-app-5fkm)
 <!-- BLOG-POST-LIST:END -->
 
 
