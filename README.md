@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Stop Wasting Tokens: The `!` Prefix That Every Claude Code User Needs to Know](https://dev.to/rajeshroyal/stop-wasting-tokens-the-prefix-that-every-claude-code-user-needs-to-know-2c6i)
 - [The Paradox of Slow Coding: Why Rushing Kills Your Progress &lpar;And What to Do Instead&rpar;](https://dev.to/rajeshroyal/the-paradox-of-slow-coding-why-rushing-kills-your-progress-and-what-to-do-instead-2pde)
 - [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
 - [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;2&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-2-57m3)
 - [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
-- [5 Things You Need to Know to Make Money with AI &lpar;Without the BS&rpar;](https://dev.to/rajeshroyal/5-things-you-need-to-know-to-make-money-with-ai-without-the-bs-1o9m)
 <!-- BLOG-POST-LIST:END -->
 
 
