@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Extended Thinking: How to Make Claude Actually Think Before It Answers](https://dev.to/rajeshroyal/extended-thinking-how-to-make-claude-actually-think-before-it-answers-33po)
 - [Your Time Machine for Code: Double Esc to Rewind When Things Go Wrong](https://dev.to/rajeshroyal/your-time-machine-for-code-double-esc-to-rewind-when-things-go-wrong-53pa)
 - [Stop Wasting Tokens: The `!` Prefix That Every Claude Code User Needs to Know](https://dev.to/rajeshroyal/stop-wasting-tokens-the-prefix-that-every-claude-code-user-needs-to-know-2c6i)
 - [The Paradox of Slow Coding: Why Rushing Kills Your Progress &lpar;And What to Do Instead&rpar;](https://dev.to/rajeshroyal/the-paradox-of-slow-coding-why-rushing-kills-your-progress-and-what-to-do-instead-2pde)
 - [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
-- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;2&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-2-57m3)
 <!-- BLOG-POST-LIST:END -->
 
 
