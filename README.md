@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
 - [The `#` Prefix: Claude&#39;s Memory Feature &lpar;And Why You Don&#39;t Need It Anymore&rpar;](https://dev.to/rajeshroyal/the-prefix-claudes-memory-feature-and-why-you-dont-need-it-anymore-3ggn)
 - [Never Lose Your Work: Session Management That Saves Your Sanity](https://dev.to/rajeshroyal/never-lose-your-work-session-management-that-saves-your-sanity-4dp8)
 - [Extended Thinking: How to Make Claude Actually Think Before It Answers](https://dev.to/rajeshroyal/extended-thinking-how-to-make-claude-actually-think-before-it-answers-33po)
 - [Your Time Machine for Code: Double Esc to Rewind When Things Go Wrong](https://dev.to/rajeshroyal/your-time-machine-for-code-double-esc-to-rewind-when-things-go-wrong-53pa)
-- [Stop Wasting Tokens: The `!` Prefix That Every Claude Code User Needs to Know](https://dev.to/rajeshroyal/stop-wasting-tokens-the-prefix-that-every-claude-code-user-needs-to-know-2c6i)
 <!-- BLOG-POST-LIST:END -->
 
 
