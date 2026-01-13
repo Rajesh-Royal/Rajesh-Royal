@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Remote: Your AI, Anywhere You Go](https://dev.to/rajeshroyal/claude-code-remote-your-ai-anywhere-you-go-l94)
 - [The `/context` Command: X-Ray Vision for Your Tokens](https://dev.to/rajeshroyal/the-context-command-x-ray-vision-for-your-tokens-4n03)
 - [Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
 - [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
 - [The `#` Prefix: Claude&#39;s Memory Feature &lpar;And Why You Don&#39;t Need It Anymore&rpar;](https://dev.to/rajeshroyal/the-prefix-claudes-memory-feature-and-why-you-dont-need-it-anymore-3ggn)
-- [Never Lose Your Work: Session Management That Saves Your Sanity](https://dev.to/rajeshroyal/never-lose-your-work-session-management-that-saves-your-sanity-4dp8)
 <!-- BLOG-POST-LIST:END -->
 
 
