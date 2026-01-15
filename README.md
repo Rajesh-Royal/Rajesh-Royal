@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Named Sessions: Your Git Branches Have Names — Why Shouldn&#39;t Your Claude Sessions?](https://dev.to/rajeshroyal/named-sessions-your-git-branches-have-names-why-shouldnt-your-claude-sessions-43oc)
 - [`/stats`: Your Claude Code Contribution Graph](https://dev.to/rajeshroyal/stats-your-claude-code-contribution-graph-4hle)
 - [Claude Code Remote: Your AI, Anywhere You Go](https://dev.to/rajeshroyal/claude-code-remote-your-ai-anywhere-you-go-l94)
 - [The `/context` Command: X-Ray Vision for Your Tokens](https://dev.to/rajeshroyal/the-context-command-x-ray-vision-for-your-tokens-4n03)
 - [Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
-- [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
 <!-- BLOG-POST-LIST:END -->
 
 
