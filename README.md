@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
 - [Prompt Stashing: Git Stash, But For Your Train of Thought](https://dev.to/rajeshroyal/prompt-stashing-git-stash-but-for-your-train-of-thought-2079)
 - [Ultrathink: Tell Claude Exactly How Hard to Think About Your Problem](https://dev.to/rajeshroyal/ultrathink-tell-claude-exactly-how-hard-to-think-about-your-problem-i35)
 - [Named Sessions: Your Git Branches Have Names — Why Shouldn&#39;t Your Claude Sessions?](https://dev.to/rajeshroyal/named-sessions-your-git-branches-have-names-why-shouldnt-your-claude-sessions-43oc)
 - [`/stats`: Your Claude Code Contribution Graph](https://dev.to/rajeshroyal/stats-your-claude-code-contribution-graph-4hle)
-- [Claude Code Remote: Your AI, Anywhere You Go](https://dev.to/rajeshroyal/claude-code-remote-your-ai-anywhere-you-go-l94)
 <!-- BLOG-POST-LIST:END -->
 
 
