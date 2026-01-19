@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [YOLO Mode: When You&#39;re Tired of Claude Asking Permission for Everything](https://dev.to/rajeshroyal/yolo-mode-when-youre-tired-of-claude-asking-permission-for-everything-2daf)
 - [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
 - [Prompt Stashing: Git Stash, But For Your Train of Thought](https://dev.to/rajeshroyal/prompt-stashing-git-stash-but-for-your-train-of-thought-2079)
 - [Ultrathink: Tell Claude Exactly How Hard to Think About Your Problem](https://dev.to/rajeshroyal/ultrathink-tell-claude-exactly-how-hard-to-think-about-your-problem-i35)
 - [Named Sessions: Your Git Branches Have Names — Why Shouldn&#39;t Your Claude Sessions?](https://dev.to/rajeshroyal/named-sessions-your-git-branches-have-names-why-shouldnt-your-claude-sessions-43oc)
-- [`/stats`: Your Claude Code Contribution Graph](https://dev.to/rajeshroyal/stats-your-claude-code-contribution-graph-4hle)
 <!-- BLOG-POST-LIST:END -->
 
 
