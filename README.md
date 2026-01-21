@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [@ Mentions: The 2-Character Shortcut That 10x Your AI Coding Speed](https://dev.to/rajeshroyal/-mentions-the-2-character-shortcut-that-10x-your-ai-coding-speed-3jej)
 - [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
 - [5 Obvious Signs Everyone Knows You’re Using ChatGPT](https://dev.to/rajeshroyal/5-obvious-signs-everyone-knows-youre-using-chatgpt-5b9p)
 - [YOLO Mode: When You&#39;re Tired of Claude Asking Permission for Everything](https://dev.to/rajeshroyal/yolo-mode-when-youre-tired-of-claude-asking-permission-for-everything-2daf)
 - [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
-- [Prompt Stashing: Git Stash, But For Your Train of Thought](https://dev.to/rajeshroyal/prompt-stashing-git-stash-but-for-your-train-of-thought-2079)
 <!-- BLOG-POST-LIST:END -->
 
 
