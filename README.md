@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
 - [Prompt Suggestions: When Your AI Knows What You Need Before You Do](https://dev.to/rajeshroyal/prompt-suggestions-when-your-ai-knows-what-you-need-before-you-do-49jf)
 - [@ Mentions: The 2-Character Shortcut That 10x Your AI Coding Speed](https://dev.to/rajeshroyal/-mentions-the-2-character-shortcut-that-10x-your-ai-coding-speed-3jej)
 - [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
 - [5 Obvious Signs Everyone Knows You’re Using ChatGPT](https://dev.to/rajeshroyal/5-obvious-signs-everyone-knows-youre-using-chatgpt-5b9p)
-- [YOLO Mode: When You&#39;re Tired of Claude Asking Permission for Everything](https://dev.to/rajeshroyal/yolo-mode-when-youre-tired-of-claude-asking-permission-for-everything-2daf)
 <!-- BLOG-POST-LIST:END -->
 
 
