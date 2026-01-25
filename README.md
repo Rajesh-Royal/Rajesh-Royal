@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Plugins: Share Your Entire Claude Code Setup With One Command](https://dev.to/rajeshroyal/plugins-share-your-entire-claude-code-setup-with-one-command-294n)
 - [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
 - [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
 - [Prompt Suggestions: When Your AI Knows What You Need Before You Do](https://dev.to/rajeshroyal/prompt-suggestions-when-your-ai-knows-what-you-need-before-you-do-49jf)
 - [@ Mentions: The 2-Character Shortcut That 10x Your AI Coding Speed](https://dev.to/rajeshroyal/-mentions-the-2-character-shortcut-that-10x-your-ai-coding-speed-3jej)
-- [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
 <!-- BLOG-POST-LIST:END -->
 
 
