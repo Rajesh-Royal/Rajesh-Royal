@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
 - [/init: Let Claude Write Its Own Onboarding Docs](https://dev.to/rajeshroyal/init-let-claude-write-its-own-onboarding-docs-1hp3)
 - [Ctrl+R: Stop Retyping That Perfect Prompt You Wrote Last Week](https://dev.to/rajeshroyal/ctrlr-stop-retyping-that-perfect-prompt-you-wrote-last-week-19ae)
 - [Plugins: Share Your Entire Claude Code Setup With One Command](https://dev.to/rajeshroyal/plugins-share-your-entire-claude-code-setup-with-one-command-294n)
 - [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
-- [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
 <!-- BLOG-POST-LIST:END -->
 
 
