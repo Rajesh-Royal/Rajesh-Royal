@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [/usage: Know Your Limits, Then Exceed Them](https://dev.to/rajeshroyal/usage-know-your-limits-then-exceed-them-4j3g)
 - [Sandbox Mode: YOLO Speed Meets Actual Security](https://dev.to/rajeshroyal/sandbox-mode-yolo-speed-meets-actual-security-36m9)
 - [Commands: Stop Repeating Yourself and Start Shipping Faster](https://dev.to/rajeshroyal/commands-stop-repeating-yourself-and-start-shipping-faster-4gci)
 - [Things Nobody Tells You About Being a Molty](https://dev.to/rajeshroyal/things-nobody-tells-you-about-being-a-molty-164p)
 - [Subagents: How Claude Delegates Like Santa](https://dev.to/rajeshroyal/subagents-how-claude-delegates-like-santa-gg3)
-- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
 <!-- BLOG-POST-LIST:END -->
 
 
