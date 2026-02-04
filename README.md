@@ -103,11 +103,11 @@
 
 ### How about some tech blogs
 <!-- BLOG-POST-LIST:START -->
+- [Claude Agent SDK: Build Agents That Work Like Claude Code](https://dev.to/rajeshroyal/claude-agent-sdk-build-agents-that-work-like-claude-code-50ln)
 - [LSP: IDE-Level Code Intelligence for Claude](https://dev.to/rajeshroyal/lsp-ide-level-code-intelligence-for-claude-4kp5)
 - [Plan Mode: Think Twice, Execute Once](https://dev.to/rajeshroyal/plan-mode-think-twice-execute-once-1bmp)
 - [/usage: Know Your Limits, Then Exceed Them](https://dev.to/rajeshroyal/usage-know-your-limits-then-exceed-them-4j3g)
 - [Sandbox Mode: YOLO Speed Meets Actual Security](https://dev.to/rajeshroyal/sandbox-mode-yolo-speed-meets-actual-security-36m9)
-- [Commands: Stop Repeating Yourself and Start Shipping Faster](https://dev.to/rajeshroyal/commands-stop-repeating-yourself-and-start-shipping-faster-4gci)
 <!-- BLOG-POST-LIST:END -->
 
 
